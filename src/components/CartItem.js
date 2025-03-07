@@ -11,7 +11,7 @@ const CartItem = props => {
           <div className="media-left">
             <figure className="image is-64x64">
               <img
-                src="https://bulma.io/images/placeholders/128x128.png"
+                src="https://imageplaceholder.net/128x128"
                 alt={product.shortDesc}
               />
             </figure>
